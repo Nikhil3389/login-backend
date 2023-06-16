@@ -30,4 +30,4 @@ app.get('/users',async(req,res)=>{
     res.json(results)
   })
   
-//   GET http://localhost:5000/users?page=1&limit=4  
+//   GET http://15.206.70.202:5000/users?page=1&limit=4  
